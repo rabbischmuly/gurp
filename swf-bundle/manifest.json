@@ -1,0 +1,169 @@
+{
+  "format": "swf-bundle-aes-256-gcm-v1",
+  "bundleSha256": "76ce4a9c72044053809cb48657678412044638b0d2457f5b123aa30885c1bb95",
+  "key": "1P87p0bWbr5EI/5kXSTM8YmnLKBpHKl+taGP3otOGCg=",
+  "plainPartBytes": 18999984,
+  "totalLength": 424486903,
+  "files": {
+    "Henry.swf": {
+      "offset": 0,
+      "length": 122379723,
+      "sha256": "cd46e21a887c51becf6fb39719ea758aa25d09d960fa244180a3e86907510f4f"
+    },
+    "HenryCtM.swf": {
+      "offset": 122379723,
+      "length": 119207967,
+      "sha256": "456bfa99fc7baaf249afa221568ceee3f098094f169f91592bb1c3420bd3cdb8"
+    },
+    "HenryCtM2.swf": {
+      "offset": 241587690,
+      "length": 128648127,
+      "sha256": "ebdec3e89105d5f4ce6d157804444e9b6f746dd7171c713566d0026d75a8748d"
+    },
+    "HenryFtC.swf": {
+      "offset": 370235817,
+      "length": 54251086,
+      "sha256": "5b3153915c3042a981aad6012c645db0d95de7b9a0110d7ffa82e8b3b669e835"
+    }
+  },
+  "parts": [
+    {
+      "filename": "16ff3afc59df9085d34ed2a46aa96c521a30d867e0d56c3ddf788826e9baec2f.bin",
+      "sha256": "16ff3afc59df9085d34ed2a46aa96c521a30d867e0d56c3ddf788826e9baec2f",
+      "nonce": "7f/POyHivM/JVEDE",
+      "length": 18999984
+    },
+    {
+      "filename": "94db23485d8a510eee70633f8aeeab75cb735a70ef31302f6a796b8ff692c520.bin",
+      "sha256": "94db23485d8a510eee70633f8aeeab75cb735a70ef31302f6a796b8ff692c520",
+      "nonce": "i8dIoBGmHF8jeH9D",
+      "length": 18999984
+    },
+    {
+      "filename": "090e23c08eb05d69708eb14f1a856f785ecd2a9ab8491591e167e86f8a6642bc.bin",
+      "sha256": "090e23c08eb05d69708eb14f1a856f785ecd2a9ab8491591e167e86f8a6642bc",
+      "nonce": "/c8DpRwxP/UGP7cn",
+      "length": 18999984
+    },
+    {
+      "filename": "4eb36e03c4566b4b94374c1d7c3912b8cc988bc77e7da02d5689753d5948d394.bin",
+      "sha256": "4eb36e03c4566b4b94374c1d7c3912b8cc988bc77e7da02d5689753d5948d394",
+      "nonce": "O+zxTdslNi6pdfru",
+      "length": 18999984
+    },
+    {
+      "filename": "c83f356193a3e0c5b59cf57ef3f01f5c0ee0c08fed6f30b86a4a45f21f52eb55.bin",
+      "sha256": "c83f356193a3e0c5b59cf57ef3f01f5c0ee0c08fed6f30b86a4a45f21f52eb55",
+      "nonce": "KZ9IFMP+jGwGw7L3",
+      "length": 18999984
+    },
+    {
+      "filename": "13c2a9771c42e4c58de8563faedd97b172d4c1e51104b7de4c965d736d5b923c.bin",
+      "sha256": "13c2a9771c42e4c58de8563faedd97b172d4c1e51104b7de4c965d736d5b923c",
+      "nonce": "p0Uvky4bLZd/lLgM",
+      "length": 18999984
+    },
+    {
+      "filename": "e9b706b48f0f5619299397f1fc06565ef7e5dde4d291d0bec42eba360f126d2b.bin",
+      "sha256": "e9b706b48f0f5619299397f1fc06565ef7e5dde4d291d0bec42eba360f126d2b",
+      "nonce": "aV6KP4a2ExTkN8ya",
+      "length": 18999984
+    },
+    {
+      "filename": "17ce1929b82368b13cd68e227d65e4c07d6d542ae33ac30a3340a931ce6da5c4.bin",
+      "sha256": "17ce1929b82368b13cd68e227d65e4c07d6d542ae33ac30a3340a931ce6da5c4",
+      "nonce": "eWWch2KUnt9J6peo",
+      "length": 18999984
+    },
+    {
+      "filename": "da58b4247736d38f98eda0c418ff4c26a0844b640e9988d79f5c220e7f03fefb.bin",
+      "sha256": "da58b4247736d38f98eda0c418ff4c26a0844b640e9988d79f5c220e7f03fefb",
+      "nonce": "qopDTPbTZ0HGeSAC",
+      "length": 18999984
+    },
+    {
+      "filename": "3ca3806b338a56fe455acc8f5724110b0c17a9ff8ce95e56969f1485d533b4e3.bin",
+      "sha256": "3ca3806b338a56fe455acc8f5724110b0c17a9ff8ce95e56969f1485d533b4e3",
+      "nonce": "YfrNp4J8l3wYMJfz",
+      "length": 18999984
+    },
+    {
+      "filename": "19ec918b659a4d30e806a9db26a37525c016158b4d162157daefefe0dd14d807.bin",
+      "sha256": "19ec918b659a4d30e806a9db26a37525c016158b4d162157daefefe0dd14d807",
+      "nonce": "d9NOekZ6nWQQUE6G",
+      "length": 18999984
+    },
+    {
+      "filename": "f4565760fb30cf5fc219d80168c5cea5571f23218fe790ea5209e6f5c780a7e3.bin",
+      "sha256": "f4565760fb30cf5fc219d80168c5cea5571f23218fe790ea5209e6f5c780a7e3",
+      "nonce": "H6iDakpi51cTyzDb",
+      "length": 18999984
+    },
+    {
+      "filename": "114c7cefa66d2b6e2de79091f6a02fbb0da07cbb730a4c3ef088743e6450523a.bin",
+      "sha256": "114c7cefa66d2b6e2de79091f6a02fbb0da07cbb730a4c3ef088743e6450523a",
+      "nonce": "jzf1L/AxJ7XmLxjp",
+      "length": 18999984
+    },
+    {
+      "filename": "a4fdc9c7a2da116f23697b30f139c26c6b47018784c928436ead03350482f7f4.bin",
+      "sha256": "a4fdc9c7a2da116f23697b30f139c26c6b47018784c928436ead03350482f7f4",
+      "nonce": "ouAMbiMov0a4qRUy",
+      "length": 18999984
+    },
+    {
+      "filename": "9e6d6ee95dcedd9cc591ea53eef692557dc9f003c4c7603263c42ac989234723.bin",
+      "sha256": "9e6d6ee95dcedd9cc591ea53eef692557dc9f003c4c7603263c42ac989234723",
+      "nonce": "nj7C+RoejcflplTA",
+      "length": 18999984
+    },
+    {
+      "filename": "4946ad6729b5f7c433dad03bdbee1e6543b1bc8fb3989c02c118c71aba5e2de9.bin",
+      "sha256": "4946ad6729b5f7c433dad03bdbee1e6543b1bc8fb3989c02c118c71aba5e2de9",
+      "nonce": "N5VEn5T6eaAJjpkF",
+      "length": 18999984
+    },
+    {
+      "filename": "888191cd335152c1ef44e5cea512da866adf4ecb73a015fba17e77e900767141.bin",
+      "sha256": "888191cd335152c1ef44e5cea512da866adf4ecb73a015fba17e77e900767141",
+      "nonce": "QaSiIpN1fVzAByOS",
+      "length": 18999984
+    },
+    {
+      "filename": "be9a4c65f2c3bf37a0462bd017073f771531da418108bb267a6f66ad7d5eebbe.bin",
+      "sha256": "be9a4c65f2c3bf37a0462bd017073f771531da418108bb267a6f66ad7d5eebbe",
+      "nonce": "zmxkgjRK/D3Up+Jz",
+      "length": 18999984
+    },
+    {
+      "filename": "e9e2e198780155df8928bf5bcbef0fb981880a08ebe18bc89affcb150902a028.bin",
+      "sha256": "e9e2e198780155df8928bf5bcbef0fb981880a08ebe18bc89affcb150902a028",
+      "nonce": "gea76Przenepq6TV",
+      "length": 18999984
+    },
+    {
+      "filename": "11a2fb86f0f9682ae92a6592bf0edaa455592c578a7fbb2026bf6ecb27093c45.bin",
+      "sha256": "11a2fb86f0f9682ae92a6592bf0edaa455592c578a7fbb2026bf6ecb27093c45",
+      "nonce": "Ty2xL782sKtf//PX",
+      "length": 18999984
+    },
+    {
+      "filename": "a768098fd28184f39493111e74d88fa9830a8e608c8eb791d2f146eb7071e4d0.bin",
+      "sha256": "a768098fd28184f39493111e74d88fa9830a8e608c8eb791d2f146eb7071e4d0",
+      "nonce": "lARnHCWd9DuLd/7y",
+      "length": 18999984
+    },
+    {
+      "filename": "6e1d963ffa312957feddbfcfbeaf7096b9ac450f42f52c744a053475e4ca689e.bin",
+      "sha256": "6e1d963ffa312957feddbfcfbeaf7096b9ac450f42f52c744a053475e4ca689e",
+      "nonce": "k+C/ypap1Fg7iBhy",
+      "length": 18999984
+    },
+    {
+      "filename": "74772061d3cf24a3c332a198b5449497410aafb8e525f3252aed05fa96cf0964.bin",
+      "sha256": "74772061d3cf24a3c332a198b5449497410aafb8e525f3252aed05fa96cf0964",
+      "nonce": "HekKi/GzbGCDsC9t",
+      "length": 6487255
+    }
+  ]
+}
